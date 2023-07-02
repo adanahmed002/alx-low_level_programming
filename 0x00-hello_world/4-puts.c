@@ -2,10 +2,10 @@
 /**
  * main - A program that prints a line
  *
- * Return:0 (Success)
+ * Return:0 (Sucess)
  */
-int main(void)
-{
- puts(""Programming is like building a multilingual puzzle\n");
- return (0);
+int main(void) {
+    puts(""Programming is like building a multilingual puzzle");
+    return 0;
 }
+
